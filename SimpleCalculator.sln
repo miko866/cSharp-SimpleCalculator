@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{172DF0A6-C496-43C2-BA86-109F4DF04CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalturator.Test.Unit", "SimpleCalturator.Test.Unit\SimpleCalturator.Test.Unit.csproj", "{6010B9D5-21FC-458E-93DB-B78D969CABC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{172DF0A6-C496-43C2-BA86-109F4DF04CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172DF0A6-C496-43C2-BA86-109F4DF04CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172DF0A6-C496-43C2-BA86-109F4DF04CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172DF0A6-C496-43C2-BA86-109F4DF04CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6010B9D5-21FC-458E-93DB-B78D969CABC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6010B9D5-21FC-458E-93DB-B78D969CABC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6010B9D5-21FC-458E-93DB-B78D969CABC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6010B9D5-21FC-458E-93DB-B78D969CABC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

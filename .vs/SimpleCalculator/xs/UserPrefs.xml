@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{172DF0A6-C496-43C2-BA86-109F4DF04CBB}|Default">
+  <MonoDevelop.Ide.ItemProperties.SimpleCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleCalturator.Test.Unit/UnitTest1.cs">
+    <Files>
+      <File FileName="SimpleCalculator/Program.cs" Line="24" Column="5" />
+      <File FileName="SimpleCalculator/InputConverter.cs" Line="10" Column="27" />
+      <File FileName="SimpleCalculator/CalculatorEEngine.cs" Line="4" Column="26" />
+      <File FileName="SimpleCalturator.Test.Unit/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleCalculator" expanded="True">
+            <Node name="SimpleCalculator" expanded="True" />
+            <Node name="SimpleCalturator.Test.Unit" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SimpleCalturator.Test.Unit FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
